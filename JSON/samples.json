@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Gorilla",
+    "file": "samples/Gorilla_120.wav",
+    "bpm": 120,
+    "loop": "2m",
+    "grain": "0.04",
+    "overlap": "0.021"
+  },
+  {
+    "name": "Anthem Beat",
+    "file": "samples/Anthem_beat_80bpm.wav",
+    "bpm": "80",
+    "loop": "2m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Apollo Guitar",
+    "file": "samples/Apollo01-Guitar_75bpm_Bb.wav",
+    "bpm": "75",
+    "loop": "8m",
+    "grain": "0.2",
+    "overlap": "0.05"
+  }
+]
