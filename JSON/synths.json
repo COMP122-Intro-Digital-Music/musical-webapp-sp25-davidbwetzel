@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "name": "Foo",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": 1,
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "triangle"
+      }
+    }
+  },
+  {
+    "name": "Jump!",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.055",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": 1,
+        "releaseCurve": "exponential",
+        "sustain": "0.405"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": 4,
+        "spread": 20
+      }
+    }
+  }
+]
