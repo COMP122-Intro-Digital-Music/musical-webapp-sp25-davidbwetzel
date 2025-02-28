@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "name": "Jump!",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.065",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1.135",
+        "releaseCurve": "sine",
+        "sustain": "0.505"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": 5,
+        "spread": 30
+      }
+    }
+  },
+  {
+    "name": "FM Something",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "0.845",
+        "releaseCurve": "sine",
+        "sustain": "0.405"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fmsawtooth",
+        "harmonicity": 1.2,
+        "modulationIndex": 5,
+        "modulationType": "sine"
+      }
+    }
+  }
+]
