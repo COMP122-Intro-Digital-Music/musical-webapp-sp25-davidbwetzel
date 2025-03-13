@@ -5,18 +5,18 @@
     "pattern": "1000"
   },
   {
-    "name": "clap",
-    "pitch": "C4",
-    "pattern": "00001000"
+    "name": "snare",
+    "pitch": "B3",
+    "pattern": "xxxx1xxx"
   },
   {
-    "name": "hit hat closed",
+    "name": "clossed hi hat",
     "pitch": "F4",
-    "pattern": "00100101001110100"
+    "pattern": "00100101011"
   },
   {
-    "name": "hi hat open",
+    "name": "hat open",
     "pitch": "F#4",
-    "pattern": "000100010000011001010"
+    "pattern": "00010001010100010"
   }
 ]
