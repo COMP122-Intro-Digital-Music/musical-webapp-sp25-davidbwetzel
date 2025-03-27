@@ -1,86 +1,73 @@
 [
   {
-    "name": "C Major Arpeggio",
-    "loop": "1m",
+    "name": "C Major Pentachord",
+    "loop": "2m",
     "octave": 0,
     "sequence": [
       {
         "time": "0:0:0.0",
-        "pitch": "C2",
-        "dur": "1n",
-        "vel": "1"
-      },
-      {
-        "time": "0:0:0.0",
-        "pitch": "C3",
+        "pitch": "C4",
         "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:1:0.0",
-        "pitch": "E3",
+        "pitch": "D4",
         "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:2:0.0",
-        "pitch": "G3",
+        "pitch": "E4",
         "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:3:0.0",
-        "pitch": "A3",
+        "pitch": "F4",
         "dur": "4n",
         "vel": "1"
-      }
-    ]
-  },
-  {
-    "name": "F Major Chord",
-    "loop": "1m",
-    "octave": 0,
-    "sequence": [
-      {
-        "time": "0:0:0.0",
-        "pitch": "F3",
-        "dur": "1n",
-        "vel": "1"
       },
       {
-        "time": "0:0:0.0",
-        "pitch": "A3",
-        "dur": "1n",
-        "vel": "1"
-      },
-      {
-        "time": "0:0:0.0",
-        "pitch": "C4",
+        "time": "1:0:0.0",
+        "pitch": "G4",
         "dur": "1n",
         "vel": "1"
       }
     ]
   },
   {
-    "name": "G Major Chord",
-    "loop": "1m",
+    "name": "Descending",
+    "loop": "2m",
     "octave": 0,
     "sequence": [
       {
         "time": "0:0:0.0",
-        "pitch": "G3",
-        "dur": "1n",
+        "pitch": "G4",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:0:0.0",
-        "pitch": "B3",
-        "dur": "1n",
+        "time": "0:1:0.0",
+        "pitch": "F4",
+        "dur": "4n",
         "vel": "1"
       },
       {
-        "time": "0:0:0.0",
+        "time": "0:2:0.0",
+        "pitch": "E4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
         "pitch": "D4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "C4",
         "dur": "1n",
         "vel": "1"
       }
