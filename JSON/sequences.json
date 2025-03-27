@@ -1,98 +1,87 @@
 [
   {
-    "name": "Twinkle A",
+    "name": "C Major Arpeggio",
     "loop": "1m",
     "octave": 0,
     "sequence": [
       {
         "time": "0:0:0.0",
-        "pitch": "C4",
-        "dur": "8n",
+        "pitch": "C2",
+        "dur": "1n",
         "vel": "1"
       },
       {
-        "time": "0:0:2.0",
-        "pitch": "C4",
-        "dur": "8n",
+        "time": "0:0:0.0",
+        "pitch": "C3",
+        "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:1:0.0",
-        "pitch": "G4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:1:2.0",
-        "pitch": "G4",
-        "dur": "8n",
+        "pitch": "E3",
+        "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:2:0.0",
-        "pitch": "A4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:2:2.0",
-        "pitch": "A4",
-        "dur": "8n",
+        "pitch": "G3",
+        "dur": "4n",
         "vel": "1"
       },
       {
         "time": "0:3:0.0",
-        "pitch": "G4",
+        "pitch": "A3",
         "dur": "4n",
         "vel": "1"
       }
     ]
   },
   {
-    "name": "Twinkle B",
-    "loop": "2m",
+    "name": "F Major Chord",
+    "loop": "1m",
     "octave": 0,
     "sequence": [
       {
         "time": "0:0:0.0",
-        "pitch": "F4",
-        "dur": "8n",
+        "pitch": "F3",
+        "dur": "1n",
         "vel": "1"
       },
       {
-        "time": "0:0:2.0",
-        "pitch": "F4",
-        "dur": "8n",
+        "time": "0:0:0.0",
+        "pitch": "A3",
+        "dur": "1n",
         "vel": "1"
       },
       {
-        "time": "0:1:0.0",
-        "pitch": "E4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:1:2.0",
-        "pitch": "E4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:2:0.0",
-        "pitch": "D4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:2:2.0",
-        "pitch": "D4",
-        "dur": "8n",
-        "vel": "1"
-      },
-      {
-        "time": "0:3:0.0",
+        "time": "0:0:0.0",
         "pitch": "C4",
-        "dur": "4n",
+        "dur": "1n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "G Major Chord",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "G3",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.0",
+        "pitch": "B3",
+        "dur": "1n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.0",
+        "pitch": "D4",
+        "dur": "1n",
         "vel": "1"
       }
     ]
