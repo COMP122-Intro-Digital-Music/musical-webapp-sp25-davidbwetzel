@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19282383)
 # COMP 122 Web Audio Player Project
 This is a series of creative exercises designed to work together as a unified real-time interactive musical instrument implemented in the browser using Tone.js (for sound) and P5.js (for graphics).
 
