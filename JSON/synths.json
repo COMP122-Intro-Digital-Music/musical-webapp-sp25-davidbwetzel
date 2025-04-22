@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "name": "Van Halen",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.065",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": 5,
+        "spread": 20
+      }
+    }
+  },
+  {
+    "name": "FM Thing",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fmtriangle",
+        "harmonicity": 1,
+        "modulationIndex": 5,
+        "modulationType": "square"
+      }
+    }
+  }
+]
